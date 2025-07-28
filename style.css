@@ -5,12 +5,12 @@
 }
 
 body{
-    background-color: aqua
+    background-color: aqua;
     text-align: center;
     line-height: 2.0;
 }
 
-.hero ing{
+.hero img{
     border-radius:50%;
 }
 
